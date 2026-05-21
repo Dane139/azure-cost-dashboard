@@ -576,8 +576,6 @@ resourcecontainers
 ```
  
 6. Click **Run Query** to verify it works, then click **Done Editing**
-7. Click **+ Add** → **Add metric** → select your subscription → choose **Cost Management** as the resource type
-8. Click **Save** → give the workbook a name like `Cost Visibility Dashboard` → select your resource group → click **Apply**
 Your workbook is now saved and accessible from the Workbooks section of Azure Monitor any time you open the portal.
  
 ![Workbooks — Resource Graph query running in the editor](assets/workbooks-query-editor.jpg)
