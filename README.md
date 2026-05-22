@@ -530,7 +530,9 @@ Terraform created the Logic App container. Now you will add the trigger and acti
    - **Body:** click **Add dynamic content** and add the `Body` field from the HTTP trigger
 9. Click **Save**
 
-![Logic App Designer — HTTP trigger wired to Send an email (V2)](assets/logic-app-designer.jpg)
+![Logic App Designer — HTTP trigger wired to Send an email (V2)](assets/workbooks-query-editor.jpg)
+ 
+![Logic App Designer — Logic App showing as enabled](assets/workbooks-dashboard.jpg)
  
 ### Connect the Logic App to the Action Group
  
@@ -578,10 +580,8 @@ resourcecontainers
 6. Click **Run Query** to verify it works, then click **Done Editing**
 Your workbook is now saved and accessible from the Workbooks section of Azure Monitor any time you open the portal.
  
-![Workbooks — Resource Graph query running in the editor](assets/workbooks-query-editor.jpg)
- 
-![Workbooks — Cost Visibility Dashboard live result](assets/workbooks-dashboard.jpg)
- 
+![Workbooks — Resource Graph query running in the editor](assets/logic-app-designer.jpg)
+
 ---
  
 ## Verification Checklist
