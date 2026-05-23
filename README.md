@@ -1,6 +1,6 @@
 # Azure Cost Visibility Dashboard
 
-**[▶ Watch me build this on Loom](https://www.loom.com/share/)**
+**[▶ Watch me build this on Loom](https://www.loom.com/share/84af602f9fdb4ea68cc3e0453615d011)**
 
 ---
 
