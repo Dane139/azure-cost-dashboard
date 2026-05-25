@@ -50,7 +50,7 @@ resource "azurerm_consumption_budget_subscription" "main" {
   name            = "budget-cost-${var.yourname}"
   subscription_id = "/subscriptions/${data.azurerm_client_config.current.subscription_id}"
  
-  amount     = 50
+  amount     = 200
   time_grain = "Monthly"
  
   time_period {
